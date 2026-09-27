@@ -1,0 +1,9 @@
+pyspark
+mlflow
+fastapi
+uvicorn[standard]
+pandas
+pyarrow
+scikit-learn
+matplotlib
+numpy
